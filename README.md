@@ -55,7 +55,7 @@ A description of repo files are below:
 ### Prerequisites
 
 Outside of standard popular DS libraries (pandas, plotly), this notebook also utilizes sqlite3 for generating SQL relations and querying, as well as datapane for generating an interactive dashboard app.
-The dashboard.py file can be used to create the app, but requires a login tokin that datapane authenticates. If you do not have a datapane account, a link to the generated dashboard is provided at the top of the read me and at the bottom of the dashboard.py file.
+The dashboard.py file can be used to create the app, but requires a token to run. If you do not have a datapane account, a link to the generated dashboard is provided at the top of the read me and at the bottom of the dashboard.py file.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
